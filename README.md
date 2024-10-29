@@ -1,5 +1,5 @@
 
-# Saltaire Phase 2 - Household Genealogies and Education
+# Saltaire Phase 1 - Migration and Habitation
 
 
 ## Short summary
@@ -9,6 +9,14 @@
 
 
 ## People
+Alex Butterworth
+
+Colin Coates
+
+Duncan Hay
+
+Felix Needham-Simpson
+
 
 
 
